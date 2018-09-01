@@ -26,3 +26,50 @@ export default Header
 // Inside of our component, we can access this title prop fro the this.props
 // from the this.props property in the Header class. We can replace it with
 // the property passed in. 
+
+
+fa fa-search searchIcon ---> Timeline.jsx
+searchInput ---> Timeline.jsx
+
+// Header ClassNames //
+
+header
+menuIcon
+dashTop
+dashBottom
+circle
+title
+SearchInputClasses
+fa fa-search searchIcon
+
+// Timeline //
+
+notificationsFrame
+panel
+header
+title
+SearchInput
+fa fa-search searchIcon
+content
+line
+item
+avatar
+time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
