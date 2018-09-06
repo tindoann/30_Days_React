@@ -1,0 +1,20 @@
+{
+  "name": "redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.0.0",
+    "ajv-keywords": "^3.2.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-frame": "^2.1.0",
+    "react-frame-component": "^4.0.1",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
